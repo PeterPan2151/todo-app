@@ -2,3 +2,4 @@ clean
 study pyton
 clean my room
 play videogames
+candy
