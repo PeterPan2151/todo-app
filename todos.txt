@@ -3,3 +3,6 @@ study pyton
 clean my room
 play videogames
 candy
+Make GUI
+study
+play 2
