@@ -1,5 +1,4 @@
 clean
-play 1hr
-study
+play 2hr
 play 2
-excercise
+study java
