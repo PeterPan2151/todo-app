@@ -1,8 +1,5 @@
 clean
-cry once again
-clean my room
-play videogames
-candy
-Make GUI
+play 1hr
 study
 play 2
+excercise
